@@ -2,7 +2,7 @@
 # https://zenodo.org/records/19053650
 **Preprint v16 — February 2026**
 # https://github.com/groksgalaxynet/Seraphim-LQG/tree/main
-# v18.2 seraphim_v18_2.pdf (current)(March 2016)
+# v18.2 seraphim_v18_3.pdf (current)(March 2016)
 
 > *LQG Patch Geometry, Gravitational Wave Energy Loss, and a Unified Compactness Equation*
 
