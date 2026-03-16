@@ -1,6 +1,7 @@
 # Seraphim: LQG Patch Geometry and Gravitational Wave Energy Loss
 # https://doi.org/10.5281/zenodo.18852768
 **Preprint v16 — February 2026**
+# v18.2 seraphim_v18_2.pdf (current)
 
 > *LQG Patch Geometry, Gravitational Wave Energy Loss, and a Unified Compactness Equation*
 
@@ -37,7 +38,7 @@ black hole event horizon (C = 0.5).
 ## Repository Structure
 
 ```
-seraphim_v16.pdf          — The paper (preprint v16)
+seraphim_v18_2.pdf          — The paper (preprint v18.2)
 Qtest.py                  — Main octave depth analysis (runs on GWOSC HDF5 files)
 waveform.py               — Waveform independence test (IMRPhenomXPHM vs SEOBNRv4PHM)
 beta.py                   — Compactness exponent Monte Carlo (1M iterations)
