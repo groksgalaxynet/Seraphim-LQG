@@ -1,4 +1,5 @@
 # Seraphim LQG Framework
+# https://doi.org/10.5281/zenodo.19053650
 
 **From the LQG area spectrum and the Robertson minimum uncertainty principle, using only fundamental constants, a single geometric activation constant K₀ = 1.1467 × 10⁸⁴ Hz² is derived — no fitting, no tuning — and from it a predicted octave depth n = 5.314 for binary black hole mergers. That prediction matches 249 of 264 BBH events across three independent GWOSC catalogs to within 0.05σ, holds flat across nine billion years of lookback time, and survives nine independent falsification tests. Either this is a real signal from the quantum geometry of spacetime, or it is the most persistent coincidence in gravitational wave astronomy. LIGO O5 will decide.**
 
