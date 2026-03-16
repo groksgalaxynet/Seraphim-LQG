@@ -1,5 +1,5 @@
 # Seraphim: LQG Patch Geometry and Gravitational Wave Energy Loss
-# https://doi.org/10.5281/zenodo.18852768
+# https://zenodo.org/records/19053650
 **Preprint v16 — February 2026**
 # https://github.com/groksgalaxynet/Seraphim-LQG/tree/main
 # v18.2 seraphim_v18_2.pdf (current)(March 2016)
