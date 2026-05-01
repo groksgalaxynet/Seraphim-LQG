@@ -1,0 +1,279 @@
+catalog,cut_level,cut_desc,event,median_n,std_n,is_nsbh,erad_field
+GWTC-3,1,Remove std_n > 0.40,GW191127_050227,5.1370,0.4666,no,radiated_energy
+GWTC-3,1,Remove std_n > 0.40,GW200208_222617,4.8922,0.4282,no,radiated_energy
+GWTC-3,1,Remove std_n > 0.40,GW200308_173609,5.1854,0.5331,no,radiated_energy
+GWTC-3,1,Remove std_n > 0.40,GW200308_173609,5.1708,0.5319,no,radiated_energy
+GWTC-3,1,Remove std_n > 0.40,GW200322_091133,5.0262,0.7843,no,radiated_energy
+GWTC-3,1,Remove std_n > 0.40,GW200322_091133,4.6320,0.8829,no,radiated_energy
+GWTC-3,2,Remove std_n > 0.30,GW191113_071753,4.6422,0.3216,yes,radiated_energy
+GWTC-3,2,Remove std_n > 0.30,GW191127_050227,5.1370,0.4666,no,radiated_energy
+GWTC-3,2,Remove std_n > 0.30,GW191127_050227,5.3096,0.3706,no,radiated_energy
+GWTC-3,2,Remove std_n > 0.30,GW200208_222617,4.8922,0.4282,no,radiated_energy
+GWTC-3,2,Remove std_n > 0.30,GW200208_222617,5.0455,0.3924,no,radiated_energy
+GWTC-3,2,Remove std_n > 0.30,GW200308_173609,5.1854,0.5331,no,radiated_energy
+GWTC-3,2,Remove std_n > 0.30,GW200308_173609,5.1708,0.5319,no,radiated_energy
+GWTC-3,2,Remove std_n > 0.30,GW200322_091133,5.0262,0.7843,no,radiated_energy
+GWTC-3,2,Remove std_n > 0.30,GW200322_091133,4.6320,0.8829,no,radiated_energy
+GWTC-2.1,2,Remove std_n > 0.30,GW190403_051519,5.2141,0.3438,no,radiated_energy
+GWTC-4,2,Remove std_n > 0.30,GW230819_171910,5.1452,0.3073,no,radiated_energy_non_evolved
+GWTC-4,2,Remove std_n > 0.30,GW230820_212515,5.3158,0.3018,no,radiated_energy_non_evolved
+GWTC-3,3,Remove std_n > 0.20,GW191113_071753,4.6065,0.2946,yes,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW191113_071753,4.6422,0.3216,yes,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW191127_050227,5.1370,0.4666,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW191127_050227,5.3096,0.3706,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200115_042309,4.7411,0.2109,yes,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200115_042309,4.7416,0.2110,yes,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200208_222617,4.8922,0.4282,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200208_222617,5.0455,0.3924,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200216_220804,5.2999,0.2801,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200216_220804,5.3485,0.2231,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200220_061928,5.3328,0.2349,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200306_093714,5.3764,0.2867,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200306_093714,5.4209,0.2644,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200308_173609,5.1854,0.5331,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200308_173609,5.1708,0.5319,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200322_091133,5.0262,0.7843,no,radiated_energy
+GWTC-3,3,Remove std_n > 0.20,GW200322_091133,4.6320,0.8829,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW151012_095443,5.2837,0.2088,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW151012_095443,5.2952,0.2038,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190403_051519,5.2141,0.3438,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190403_051519,5.4001,0.2927,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190413_134308,5.2738,0.2039,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190517_055101,5.5222,0.2130,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190521_030229,5.2065,0.2731,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190521_030229,5.3059,0.2199,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190527_092055,5.3125,0.2651,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190527_092055,5.3427,0.2331,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190620_030421,5.4050,0.2555,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190620_030421,5.4396,0.2150,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190706_222641,5.3676,0.2168,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190719_215514,5.3646,0.2918,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190719_215514,5.3978,0.2583,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190725_174728,5.2238,0.2229,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190725_174728,5.2220,0.2235,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190916_200658,5.3453,0.2627,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190916_200658,5.4027,0.2226,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190917_114630,4.6619,0.2151,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190917_114630,4.6602,0.2129,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190926_050336,5.2040,0.2235,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190929_012149,5.0958,0.2382,no,radiated_energy
+GWTC-2.1,3,Remove std_n > 0.20,GW190929_012149,5.1443,0.2187,no,radiated_energy
+GWTC-4,3,Remove std_n > 0.20,GW230702_185453,5.1385,0.2213,no,radiated_energy_non_evolved
+GWTC-4,3,Remove std_n > 0.20,GW230704_212616,5.3829,0.2562,no,radiated_energy_non_evolved
+GWTC-4,3,Remove std_n > 0.20,GW230712_090405,5.0885,0.2799,no,radiated_energy_non_evolved
+GWTC-4,3,Remove std_n > 0.20,GW230819_171910,5.1452,0.3073,no,radiated_energy_non_evolved
+GWTC-4,3,Remove std_n > 0.20,GW230820_212515,5.3158,0.3018,no,radiated_energy_non_evolved
+GWTC-4,3,Remove std_n > 0.20,GW230922_040658,5.4459,0.2274,no,radiated_energy_non_evolved
+GWTC-4,3,Remove std_n > 0.20,GW231118_090602,5.2590,0.2661,no,radiated_energy_non_evolved
+GWTC-4,3,Remove std_n > 0.20,GW231221_135041,5.2988,0.2008,no,radiated_energy_non_evolved
+GWTC-4,3,Remove std_n > 0.20,GW240107_013215,5.3701,0.2823,no,radiated_energy_non_evolved
+GWTC-3,4,Remove std_n > 0.15,GW191113_071753,4.6065,0.2946,yes,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW191113_071753,4.6422,0.3216,yes,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW191127_050227,5.1370,0.4666,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW191127_050227,5.3096,0.3706,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200115_042309,4.7411,0.2109,yes,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200115_042309,4.7416,0.2110,yes,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200208_222617,4.8922,0.4282,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200208_222617,5.0455,0.3924,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200210_092254,4.2278,0.1502,yes,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200216_220804,5.2999,0.2801,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200216_220804,5.3485,0.2231,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200220_061928,5.3328,0.2349,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200220_061928,5.3598,0.1668,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200302_015811,5.2019,0.1637,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200302_015811,5.2250,0.1615,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200306_093714,5.3764,0.2867,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200306_093714,5.4209,0.2644,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200308_173609,5.1854,0.5331,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200308_173609,5.1708,0.5319,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200316_215756,5.2916,0.1755,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200316_215756,5.2934,0.1765,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200322_091133,5.0262,0.7843,no,radiated_energy
+GWTC-3,4,Remove std_n > 0.15,GW200322_091133,4.6320,0.8829,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW151012_095443,5.2837,0.2088,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW151012_095443,5.2952,0.2038,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW151226_033853,5.3340,0.1898,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW151226_033853,5.3317,0.1899,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW170729_185629,5.3935,0.1996,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW170729_185629,5.4402,0.1788,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190403_051519,5.2141,0.3438,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190403_051519,5.4001,0.2927,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190413_134308,5.2738,0.2039,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190413_134308,5.3110,0.1697,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190426_190642,5.4182,0.1838,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190426_190642,5.4492,0.1670,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190513_205428,5.2650,0.1639,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190513_205428,5.2821,0.1623,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190517_055101,5.5222,0.2130,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190517_055101,5.5525,0.1965,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190521_030229,5.2065,0.2731,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190521_030229,5.3059,0.2199,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190527_092055,5.3125,0.2651,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190527_092055,5.3427,0.2331,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190602_175927,5.3409,0.1812,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190602_175927,5.3673,0.1660,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190620_030421,5.4050,0.2555,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190620_030421,5.4396,0.2150,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190706_222641,5.3676,0.2168,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190706_222641,5.4095,0.1925,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190719_215514,5.3646,0.2918,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190719_215514,5.3978,0.2583,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190725_174728,5.2238,0.2229,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190725_174728,5.2220,0.2235,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190728_064510,5.3430,0.1730,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190728_064510,5.3441,0.1761,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190805_211137,5.4999,0.1773,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190805_211137,5.5238,0.1530,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190916_200658,5.3453,0.2627,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190916_200658,5.4027,0.2226,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190917_114630,4.6619,0.2151,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190917_114630,4.6602,0.2129,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190924_021846,5.2427,0.1667,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190924_021846,5.2425,0.1687,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190926_050336,5.2040,0.2235,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190926_050336,5.2614,0.1977,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190929_012149,5.0958,0.2382,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190929_012149,5.1443,0.2187,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190930_133541,5.3483,0.1716,no,radiated_energy
+GWTC-2.1,4,Remove std_n > 0.15,GW190930_133541,5.3479,0.1748,no,radiated_energy
+GWTC-4,4,Remove std_n > 0.15,GW230608_205047,5.3233,0.1503,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230630_125806,5.3933,0.1869,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230702_185453,5.1385,0.2213,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230704_212616,5.3829,0.2562,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230708_230935,5.2914,0.1692,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230709_122727,5.3542,0.1686,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230712_090405,5.0885,0.2799,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230803_033412,5.3341,0.1501,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230805_034249,5.3334,0.1548,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230819_171910,5.1452,0.3073,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230820_212515,5.3158,0.3018,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230922_040658,5.4459,0.2274,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW230928_215827,5.5008,0.1642,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231001_140220,5.2100,0.1844,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231004_232346,5.2013,0.1892,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231005_021030,5.3182,0.1878,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231008_142521,5.2548,0.1846,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231020_142947,5.3451,0.1554,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231029_111508,5.3566,0.1612,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231113_122623,5.4920,0.1618,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231114_043211,5.0704,0.1501,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231118_090602,5.2590,0.2661,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231119_075248,5.3270,0.1512,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231127_165300,5.3062,0.1900,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231129_081745,5.2629,0.1604,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231221_135041,5.2988,0.2008,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231223_032836,5.2397,0.1687,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW231230_170116,5.2289,0.1830,no,radiated_energy_non_evolved
+GWTC-4,4,Remove std_n > 0.15,GW240107_013215,5.3701,0.2823,no,radiated_energy_non_evolved
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW191113_071753,4.6065,0.2946,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW191113_071753,4.6422,0.3216,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW191127_050227,5.1370,0.4666,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW191127_050227,5.3096,0.3706,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW191219_163120,3.2721,0.0467,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW191219_163120,3.2726,0.0603,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200105_162426,4.6882,0.1367,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200105_162426,4.6882,0.1367,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200115_042309,4.7411,0.2109,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200115_042309,4.7416,0.2110,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200208_222617,4.8922,0.4282,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200208_222617,5.0455,0.3924,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200210_092254,4.2239,0.1463,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200210_092254,4.2278,0.1502,yes,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200216_220804,5.2999,0.2801,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200216_220804,5.3485,0.2231,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200220_061928,5.3328,0.2349,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200306_093714,5.3764,0.2867,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200306_093714,5.4209,0.2644,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200308_173609,5.1854,0.5331,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200308_173609,5.1708,0.5319,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200322_091133,5.0262,0.7843,no,radiated_energy
+GWTC-3,5,Remove std_n > 0.20 AND NSBH outliers,GW200322_091133,4.6320,0.8829,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW151012_095443,5.2837,0.2088,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW151012_095443,5.2952,0.2038,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190403_051519,5.2141,0.3438,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190403_051519,5.4001,0.2927,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190413_134308,5.2738,0.2039,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190517_055101,5.5222,0.2130,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190521_030229,5.2065,0.2731,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190521_030229,5.3059,0.2199,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190527_092055,5.3125,0.2651,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190527_092055,5.3427,0.2331,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190620_030421,5.4050,0.2555,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190620_030421,5.4396,0.2150,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190706_222641,5.3676,0.2168,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190719_215514,5.3646,0.2918,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190719_215514,5.3978,0.2583,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190725_174728,5.2238,0.2229,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190725_174728,5.2220,0.2235,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190916_200658,5.3453,0.2627,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190916_200658,5.4027,0.2226,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190917_114630,4.6619,0.2151,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190917_114630,4.6602,0.2129,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190926_050336,5.2040,0.2235,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190929_012149,5.0958,0.2382,no,radiated_energy
+GWTC-2.1,5,Remove std_n > 0.20 AND NSBH outliers,GW190929_012149,5.1443,0.2187,no,radiated_energy
+GWTC-4,5,Remove std_n > 0.20 AND NSBH outliers,GW230702_185453,5.1385,0.2213,no,radiated_energy_non_evolved
+GWTC-4,5,Remove std_n > 0.20 AND NSBH outliers,GW230704_212616,5.3829,0.2562,no,radiated_energy_non_evolved
+GWTC-4,5,Remove std_n > 0.20 AND NSBH outliers,GW230712_090405,5.0885,0.2799,no,radiated_energy_non_evolved
+GWTC-4,5,Remove std_n > 0.20 AND NSBH outliers,GW230819_171910,5.1452,0.3073,no,radiated_energy_non_evolved
+GWTC-4,5,Remove std_n > 0.20 AND NSBH outliers,GW230820_212515,5.3158,0.3018,no,radiated_energy_non_evolved
+GWTC-4,5,Remove std_n > 0.20 AND NSBH outliers,GW230922_040658,5.4459,0.2274,no,radiated_energy_non_evolved
+GWTC-4,5,Remove std_n > 0.20 AND NSBH outliers,GW231118_090602,5.2590,0.2661,no,radiated_energy_non_evolved
+GWTC-4,5,Remove std_n > 0.20 AND NSBH outliers,GW231221_135041,5.2988,0.2008,no,radiated_energy_non_evolved
+GWTC-4,5,Remove std_n > 0.20 AND NSBH outliers,GW240107_013215,5.3701,0.2823,no,radiated_energy_non_evolved
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW191113_071753,4.6065,0.2946,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW191113_071753,4.6422,0.3216,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW191127_050227,5.1370,0.4666,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW191127_050227,5.3096,0.3706,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW191219_163120,3.2721,0.0467,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW191219_163120,3.2726,0.0603,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200105_162426,4.6882,0.1367,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200105_162426,4.6882,0.1367,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200115_042309,4.7411,0.2109,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200115_042309,4.7416,0.2110,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200208_222617,4.8922,0.4282,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200208_222617,5.0455,0.3924,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200210_092254,4.2239,0.1463,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200210_092254,4.2278,0.1502,yes,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200216_220804,5.2999,0.2801,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200216_220804,5.3485,0.2231,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200220_061928,5.3328,0.2349,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200306_093714,5.3764,0.2867,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200306_093714,5.4209,0.2644,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200308_173609,5.1854,0.5331,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200308_173609,5.1708,0.5319,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200322_091133,5.0262,0.7843,no,radiated_energy
+GWTC-3,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW200322_091133,4.6320,0.8829,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW151012_095443,5.2837,0.2088,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW151012_095443,5.2952,0.2038,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190403_051519,5.2141,0.3438,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190403_051519,5.4001,0.2927,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190413_134308,5.2738,0.2039,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190517_055101,5.5222,0.2130,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190521_030229,5.2065,0.2731,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190521_030229,5.3059,0.2199,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190527_092055,5.3125,0.2651,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190527_092055,5.3427,0.2331,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190620_030421,5.4050,0.2555,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190620_030421,5.4396,0.2150,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190706_222641,5.3676,0.2168,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190719_215514,5.3646,0.2918,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190719_215514,5.3978,0.2583,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190725_174728,5.2238,0.2229,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190725_174728,5.2220,0.2235,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190916_200658,5.3453,0.2627,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190916_200658,5.4027,0.2226,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190917_114630,4.6619,0.2151,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190917_114630,4.6602,0.2129,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190926_050336,5.2040,0.2235,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190929_012149,5.0958,0.2382,no,radiated_energy
+GWTC-2.1,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW190929_012149,5.1443,0.2187,no,radiated_energy
+GWTC-4,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW230702_185453,5.1385,0.2213,no,radiated_energy_non_evolved
+GWTC-4,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW230704_212616,5.3829,0.2562,no,radiated_energy_non_evolved
+GWTC-4,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW230712_090405,5.0885,0.2799,no,radiated_energy_non_evolved
+GWTC-4,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW230819_171910,5.1452,0.3073,no,radiated_energy_non_evolved
+GWTC-4,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW230820_212515,5.3158,0.3018,no,radiated_energy_non_evolved
+GWTC-4,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW230922_040658,5.4459,0.2274,no,radiated_energy_non_evolved
+GWTC-4,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW231118_090602,5.2590,0.2661,no,radiated_energy_non_evolved
+GWTC-4,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW231221_135041,5.2988,0.2008,no,radiated_energy_non_evolved
+GWTC-4,7,Remove NR_FIT + std_n > 0.20 + NSBH (strictest),GW240107_013215,5.3701,0.2823,no,radiated_energy_non_evolved

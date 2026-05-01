@@ -1,0 +1,124 @@
+{
+    "test": "Mass Ratio q Distribution",
+    "K0_verify": "1.1467e84 Hz^2 (exponent=84)",
+    "n_events_deduped": 175,
+    "n_bbh_band": 166,
+    "n_oob": 9,
+    "bbh_q": {
+        "mean": 0.65746,
+        "median": 0.68041,
+        "std": 0.12224,
+        "min": 0.15946,
+        "max": 0.87799,
+        "skewness": -1.0075
+    },
+    "n_vs_q": {
+        "pearson_r": 0.5039,
+        "pearson_p": 4.493283250148475e-12,
+        "pearson_ci95": [
+            0.31587,
+            0.6549
+        ],
+        "spearman_r": 0.34037,
+        "spearman_p": 7.2265899144790344e-06,
+        "linear_slope": 0.34164,
+        "linear_intercept": 5.10394,
+        "linear_r2": 0.25392
+    },
+    "q_bins": [
+        {
+            "q_bin": "0.0-0.2",
+            "n_events": 1,
+            "mean_n": 5.04559,
+            "std_n": 0.0,
+            "median_n": 5.04559,
+            "mean_beta": 0.18183
+        },
+        {
+            "q_bin": "0.2-0.4",
+            "n_events": 4,
+            "mean_n": 5.16554,
+            "std_n": 0.14586,
+            "median_n": 5.12062,
+            "mean_beta": 0.67162
+        },
+        {
+            "q_bin": "0.4-0.6",
+            "n_events": 40,
+            "mean_n": 5.29542,
+            "std_n": 0.10624,
+            "median_n": 5.29232,
+            "mean_beta": 0.86469
+        },
+        {
+            "q_bin": "0.6-0.8",
+            "n_events": 109,
+            "mean_n": 5.34551,
+            "std_n": 0.05399,
+            "median_n": 5.34082,
+            "mean_beta": 0.92407
+        },
+        {
+            "q_bin": "0.8-1.0",
+            "n_events": 12,
+            "mean_n": 5.36296,
+            "std_n": 0.02903,
+            "median_n": 5.36034,
+            "mean_beta": 0.96774
+        }
+    ],
+    "q_beta_strat": [
+        {
+            "q_range": "0.0-0.3 (unequal)",
+            "n_events": 3,
+            "mean_beta": 0.37228,
+            "std_beta": 0.35465,
+            "mean_n": 5.15551,
+            "sigma_from_1": -2.5031
+        },
+        {
+            "q_range": "0.3-0.6 (moderate)",
+            "n_events": 42,
+            "mean_beta": 0.86522,
+            "std_beta": 0.11059,
+            "mean_n": 5.28709,
+            "sigma_from_1": -7.804
+        },
+        {
+            "q_range": "0.6-0.8",
+            "n_events": 109,
+            "mean_beta": 0.92407,
+            "std_beta": 0.07874,
+            "mean_n": 5.34551,
+            "sigma_from_1": -10.0218
+        },
+        {
+            "q_range": "0.8-1.0 (near equal)",
+            "n_events": 12,
+            "mean_beta": 0.96774,
+            "std_beta": 0.01909,
+            "mean_n": 5.36296,
+            "sigma_from_1": -5.6039
+        }
+    ],
+    "cat_q": [
+        {
+            "catalog": "GWTC-2.1",
+            "n": 51,
+            "mean_q": 0.64898,
+            "median_q": 0.68117,
+            "std_q": 0.12761,
+            "ci95_lo": 0.61198,
+            "ci95_hi": 0.68293
+        },
+        {
+            "catalog": "GWTC-3",
+            "n": 30,
+            "mean_q": 0.66523,
+            "median_q": 0.7184,
+            "std_q": 0.14032,
+            "ci95_lo": 0.61191,
+            "ci95_hi": 0.71205
+        }
+    ]
+}
