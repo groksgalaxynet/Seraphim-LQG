@@ -2,7 +2,7 @@
 
 **LQG Patch Geometry, Gravitational Wave Energy Loss, and a Unified Compactness Equation**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20127464](https://doi.org/10.5281/zenodo.20127464)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20127464][https://doi.org/10.5281/zenodo.20127464]
 
 > **264 BBH events · GWTC-2.1 · GWTC-3 · GWTC-4 · Nine independent tests · Zero free parameters**
 > 
