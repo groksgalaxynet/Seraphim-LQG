@@ -239,7 +239,7 @@ All visualizations built from the CSV outputs in this repository.
 
 |Record                  |Contents                                                                                     |DOI                                                               |
 |------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-|Main framework (v18.8)  |Core paper, all versions                                                                     |[10.5281/zenodo.18852768](https://doi.org/10.5281/zenodo.18852768)|
+|Main framework (v19)  |Core paper                                                                     |[10.5281/zenodo.20127464](https://doi.org/10.5281/zenodo.20127464)|
 |Companion papers        |Tiling Identity, Immirzi Bridge, Hubble Tension, Degen, BB/Hubble, Zero Point, Observer, Ring|[10.5281/zenodo.19266568](https://doi.org/10.5281/zenodo.19266568)|
 |v18.4 integrated edition|Main paper with companion derivations embedded                                               |[10.5281/zenodo.19418111](https://doi.org/10.5281/zenodo.19418111)|
 |Corrected expansions    |All corrected companion papers + Unified Compendium v3                                       |[10.5281/zenodo.19574318](https://doi.org/10.5281/zenodo.19574318)|
