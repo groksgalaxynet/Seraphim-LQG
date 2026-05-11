@@ -46,9 +46,9 @@ pip install numpy scipy h5py pandas
 
 |Catalog |Zenodo Record                                                     |Size  |
 |--------|------------------------------------------------------------------|------|
-|GWTC-2.1|[zenodo.org/records/6513631](https://zenodo.org/records/6513631)  |~90 GB|
-|GWTC-3  |[zenodo.org/records/8177023](https://zenodo.org/records/8177023)  |~75 GB|
-|GWTC-4  |[zenodo.org/records/16053484](https://zenodo.org/records/16053484)|~30 GB|
+|GWTC-2.1|[zenodo.org/records/6513631](https://zenodo.org/records/6513631)  |~22.7 GB|
+|GWTC-3  |[zenodo.org/records/8177023](https://zenodo.org/records/8177023)  |~23.6 GB|
+|GWTC-4  |[zenodo.org/records/16053484](https://zenodo.org/records/16053484)|~14.6 GB|
 
 Place all `.h5` / `.hdf5` files in one directory (subdirectories are fine — the script walks recursively).
 
@@ -164,7 +164,7 @@ All papers are working preprints. Priority timestamped on Zenodo. **The companio
 
 |File                                       |Description                                      |Status        |
 |-------------------------------------------|-------------------------------------------------|--------------|
-|`seraphim_v18_8.docx`                      |Main paper v18.8 — current version               |Empirical core|
+|`seraphim_v19.docx`                        |Main paper v18.8 — current version               |Empirical core|
 |`seraphim_unified_compendium_v3.docx`      |All 16 parts embedded                            |Reference     |
 |`tiling_identity.docx`                     |Algebraic proof: tiling postulate is an identity |Companion     |
 |`tiling_identity_addendum_spinfoam_v5.docx`|Spin foam amplitudes, j=1/2 minimum-action       |Companion     |
