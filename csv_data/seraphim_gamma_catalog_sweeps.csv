@@ -1,4 +1,0 @@
-catalog,n_events,n_samples,gamma_data,mn_at_gamma_data,delta,offset_from_meissner,offset_from_allcat
-GWTC-2.1,106,11455601,0.247648,5.314532,0.000532,0.010148,-0.009359
-GWTC-3,72,7125938,0.276276,5.314447,0.000447,0.038776,0.019269
-GWTC-4,86,1320449,0.245445,5.314541,0.000541,0.007945,-0.011562
