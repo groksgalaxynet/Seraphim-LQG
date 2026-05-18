@@ -1,0 +1,4 @@
+catalog,N,median_af,gap_schwarz_med,gap_schwarz_std,delta_schwarz,gap_kerr_remnant_med,gap_kerr_remnant_std,delta_kerr_remnant,std_reduction_pct,median_z
+GWTC-2.1,106,0.6955,132.1639,0.8066,-4.8721,131.0649,0.7755,-5.9711,3.853,0.3372
+GWTC-3,72,0.6836,132.236,1.0072,-4.8,131.2225,1.0296,-5.8135,-2.229,0.3036
+GWTC-4,86,0.6946,132.2518,0.9522,-4.7842,131.1749,0.9271,-5.8611,2.638,0.46

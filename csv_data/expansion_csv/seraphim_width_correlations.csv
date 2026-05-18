@@ -1,0 +1,4 @@
+comparison,n,pearson_r,pearson_p,spearman_r,spearman_p,significant
+sigma_n vs |n - 5.314|,264,0.1157,0.060575844477454094,0.2571,2.3508157884014828e-05,True
+sigma_n vs median_n,264,-0.133,0.03080203700407481,-0.2099,0.0005964715120213325,True
+sigma_n vs |n-5.314| BBH only,248,0.4243,2.947909966409666e-12,0.2742,1.18687966492544e-05,True

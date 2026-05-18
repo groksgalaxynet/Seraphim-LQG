@@ -1,0 +1,28 @@
+dataset,N_test,test,var1,var2,pearson_r,t_stat,p_value,sig,spearman_rho,spearman_p,note
+ALL CATALOGS POOLED,264,"Direct r(n,z) all",z,n,0.1647,2.704,7.3082e-03,**,0.1428,2.0312e-02,
+ALL CATALOGS POOLED,248,"r(n,z) BBH band",z,n_BBH,0.0100,0.157,8.7513e-01,,0.0250,6.9538e-01,BBH band only
+ALL CATALOGS POOLED,264,Partial r(z|chi),z,n|chi_eff,0.1114,1.810,7.1389e-02,,—,—,
+ALL CATALOGS POOLED,264,Partial r(chi|z),chi_eff,n|z,0.1794,2.946,3.5065e-03,**,—,—,
+ALL CATALOGS POOLED,264,Partial r(z|dl),z,n|lum_dist,0.3351,5.747,2.5311e-08,***,—,—,
+ALL CATALOGS POOLED,66,Spearman bin 1,z,n_bin1,—,—,9.9799e-03,**,0.3150,9.9799e-03,"z=[0.04,0.21]"
+ALL CATALOGS POOLED,66,Spearman bin 2,z,n_bin2,—,—,2.9526e-02,*,0.2681,2.9526e-02,"z=[0.21,0.36]"
+ALL CATALOGS POOLED,66,Spearman bin 3,z,n_bin3,—,—,4.0022e-01,,-0.1053,4.0022e-01,"z=[0.36,0.60]"
+ALL CATALOGS POOLED,66,Spearman bin 4,z,n_bin4,—,—,1.8407e-01,,0.1655,1.8407e-01,"z=[0.60,2.15]"
+0seraphim_redshift_results.csv,86,"Direct r(n,z) all",z,n,0.2768,2.640,9.8884e-03,**,0.1478,1.7442e-01,
+0seraphim_redshift_results.csv,85,"r(n,z) BBH band",z,n_BBH,0.2014,1.873,6.4596e-02,,0.1174,2.8462e-01,BBH band only
+0seraphim_redshift_results.csv,86,Partial r(z|chi),z,n|chi_eff,0.1684,1.557,1.2338e-01,,—,—,
+0seraphim_redshift_results.csv,86,Partial r(chi|z),chi_eff,n|z,0.4765,4.938,4.0299e-06,***,—,—,
+0seraphim_redshift_results.csv,86,Partial r(z|dl),z,n|lum_dist,0.2302,2.155,3.4049e-02,*,—,—,
+0seraphim_redshift_results.csv,22,Spearman bin 1,z,n_bin1,—,—,8.8693e-01,,0.0322,8.8693e-01,"z=[0.04,0.28]"
+0seraphim_redshift_results.csv,21,Spearman bin 2,z,n_bin2,—,—,9.1988e-01,,-0.0234,9.1988e-01,"z=[0.28,0.46]"
+0seraphim_redshift_results.csv,21,Spearman bin 3,z,n_bin3,—,—,4.9633e-01,,-0.1571,4.9633e-01,"z=[0.46,0.66]"
+0seraphim_redshift_results.csv,22,Spearman bin 4,z,n_bin4,—,—,2.7973e-01,,0.2411,2.7973e-01,"z=[0.66,1.00]"
+seraphim_redshift_results.csv,178,"Direct r(n,z) all",z,n,0.1400,1.876,6.2376e-02,,0.1351,7.2194e-02,
+seraphim_redshift_results.csv,163,"r(n,z) BBH band",z,n_BBH,-0.0669,-0.851,3.9609e-01,,-0.0208,7.9225e-01,BBH band only
+seraphim_redshift_results.csv,178,Partial r(z|chi),z,n|chi_eff,0.0900,1.195,2.3361e-01,,—,—,
+seraphim_redshift_results.csv,178,Partial r(chi|z),chi_eff,n|z,0.1571,2.104,3.6782e-02,*,—,—,
+seraphim_redshift_results.csv,178,Partial r(z|dl),z,n|lum_dist,0.3365,4.727,4.6703e-06,***,—,—,
+seraphim_redshift_results.csv,45,Spearman bin 1,z,n_bin1,—,—,2.6778e-02,*,0.3301,2.6778e-02,"z=[0.05,0.19]"
+seraphim_redshift_results.csv,44,Spearman bin 2,z,n_bin2,—,—,2.8350e-01,,-0.1653,2.8350e-01,"z=[0.19,0.31]"
+seraphim_redshift_results.csv,44,Spearman bin 3,z,n_bin3,—,—,3.4285e-01,,-0.1464,3.4285e-01,"z=[0.31,0.56]"
+seraphim_redshift_results.csv,45,Spearman bin 4,z,n_bin4,—,—,7.1036e-01,,0.0569,7.1036e-01,"z=[0.56,2.15]"

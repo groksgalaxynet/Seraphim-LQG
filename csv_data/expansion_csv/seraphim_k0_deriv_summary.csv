@@ -1,0 +1,5 @@
+test,your_value,data_value,offset,in_CI
+T1_prefactor,-2.4772_log10_A,-2.5097_log10_A,0.0325_dex,NO
+T2_immirzi,0.2375,0.257515,0.020015,N/A
+T3_spin,j=0.5,j=0.5,0.0,N/A
+OVERALL_your_K0,5.314,5.265003_mean,0.048997_oct,N/A

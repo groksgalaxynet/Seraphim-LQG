@@ -1,0 +1,10 @@
+gamma_label,gamma_value,K0_Hz2,mean_n_pooled,median_n_pooled,delta_mean,delta_median,sigma_sep,source
+Meissner_2004_area,0.23750000,1.1467e+84,5.256495,5.326909,-0.057505,0.012909,3.4988,"Meissner 2004, area eigenvalue counting j=1/2"
+Agullo_2010_area,0.23753000,1.1466e+84,5.256586,5.327000,-0.057414,0.013000,3.4932,"Agullo et al 2010, refined area counting"
+DL_entropy_j12,0.12738402,2.1379e+84,4.807123,4.877537,-0.506877,-0.436463,30.8398,"Domagala-Lewandowski 2004 / Meissner, S_BH j=1/2"
+Ghosh_Perez_2013_allj,0.12363732,2.2027e+84,4.785588,4.856002,-0.528412,-0.457998,32.1501,"Ghosh-Perez 2013, all-j ensemble"
+Engle_2010_SU2_CS,0.27380000,9.9467e+83,5.359092,5.429506,0.045092,0.115506,2.7435,"Engle et al 2010, SU(2) Chern-Simons"
+Majumdar_1998,0.27350000,9.9576e+83,5.358301,5.428715,0.044301,0.114715,2.6954,"Majumdar 1998, original Barbero-Immirzi"
+Kaul_Majumdar_1998,0.06369201,4.2759e+84,4.307123,4.377537,-1.006877,-0.936463,61.2612,"Kaul-Majumdar 1998, S=ln2 per puncture"
+Perez_Rovelli_2001,0.13783222,1.9759e+84,4.863987,4.934401,-0.450013,-0.379599,27.3800,Perez-Rovelli 2001
+gamma_data_observed,0.25750000,1.0576e+84,5.314817,5.385231,0.000817,0.071231,0.0497,This work: data-preferred value from posterior sweep
