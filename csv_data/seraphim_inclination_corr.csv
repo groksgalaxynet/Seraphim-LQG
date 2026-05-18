@@ -1,0 +1,7 @@
+test,n,r,p,note
+direct_pearson_cos_n,248,-0.0462,0.46934134,cos(theta_jn) vs n
+direct_spearman_cos_n,248,-0.0292,0.6470063,cos(theta_jn) vs n
+direct_pearson_abscos_n,248,0.2213,0.00044597,|cos(theta_jn)| vs n
+direct_spearman_abscos_n,248,0.1792,0.00464887,|cos(theta_jn)| vs n
+partial_cos_ctrl_chi_q,248,-0.0584,0.35989729,partial r controlling chi_eff+q
+partial_abscos_ctrl_chi_q,248,0.0149,0.81497262,partial |r| controlling chi_eff+q
