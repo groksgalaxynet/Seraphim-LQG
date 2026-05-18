@@ -1,0 +1,6 @@
+label,n_events,in_bbh_band,pct_in_band,below_band,above_band,within_0.05_of_5.314,pct_within_0.05,below_n_flip_3.561
+ALL EVENTS,264,248,93.9,16,0,140,53.0,2
+BBH BAND ONLY,248,248,100.0,0,0,140,56.5,0
+GWTC-2.1,106,102,96.2,4,0,52,49.1,0
+GWTC-3,72,61,84.7,11,0,37,51.4,2
+GWTC-4,86,85,98.8,1,0,50,58.1,0
